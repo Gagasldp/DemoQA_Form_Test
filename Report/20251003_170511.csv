@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TTS_DemoQA_Form,Chrome 140.0.7339.208,,,03-10-2025 17:05:15,03-10-2025 17:09:24,4m - 9.234s,PASSED
+,,,,,,,
+Test Cases/TC_DemoQA_DDT,Chrome 140.0.7339.208,,,03-10-2025 17:05:15,03-10-2025 17:09:24,4m - 8.609s,PASSED
+"DATA BINDING - {""(Default) Gende..."":"""",""(Default) DOB"":"""",""(Default) Pictu..."":"""",""(Default) Hobbi..."":"""",""(Default) Email"":"""",""(Default) LastN..."":"""",""(Default) First..."":"""",""(Default) City"":"""",""(Default) State"":"""",""(Default) Addre..."":"""",""(Default) Mobil..."":"""",""(Default) Subje..."":""""}",,,,,,,
+"data = findTestData(""Data Files/DataDemoQA"")",Chrome 140.0.7339.208,,,03-10-2025 17:05:16,03-10-2025 17:05:16,0.014s,PASSED
+"for ([row = 1, row <= data.getRowNumbers(), (row++)])",Chrome 140.0.7339.208,,,03-10-2025 17:05:16,03-10-2025 17:09:24,4m - 7.895s,PASSED

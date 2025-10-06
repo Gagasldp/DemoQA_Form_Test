@@ -1,0 +1,13 @@
+FirstName,LastName,Email,Mobile,Gender,DOB,Subject,Hobbies,Picture,Address,State,City,Expected
+Gagas,Jex,gagasJex@g.com,877362673,Male,18/10/2000,Math,Sports,C:\Users\Jexxy\Downloads\WhatsApp Image 2025-09-29 at 2.27.59 PM.jpeg,Jl. Jalan,NCR,Delhi,valid
+Raden Mas Gagas Mangkubumi Mangkurat,S.Kom M.Kom S.T M.T S.Pd M.Pd S.H,gagasJex@g.com,877362673,Male,18/10/2000,Math,Sports,C:\Users\Jexxy\Downloads\WhatsApp Image 2025-09-29 at 2.27.59 PM.jpeg,Jl. Jalan,NCR,Delhi,valid
+Gagas,Jex,gagasJex.com,877362673,Male,18/10/2000,Math,Sports,C:\Users\Jexxy\Downloads\WhatsApp Image 2025-09-29 at 2.27.59 PM.jpeg,Jl. Jalan,NCR,Delhi,email_invalid
+Gagas,Jex,gagasJex@g.com,12345,Male,18/10/2000,Math,Sports,C:\Users\Jexxy\Downloads\WhatsApp Image 2025-09-29 at 2.27.59 PM.jpeg,Jl. Jalan,NCR,Delhi,mobile_invalid
+Gagas,Jex,gagasJex@g.com,877362673,,18/10/2000,Math,Sports,C:\Users\Jexxy\Downloads\WhatsApp Image 2025-09-29 at 2.27.59 PM.jpeg,Jl. Jalan,NCR,Delhi,required
+Gagas,Jex,gagasJex@g.com,877362673,Male,,Math,Sports,C:\Users\Jexxy\Downloads\WhatsApp Image 2025-09-29 at 2.27.59 PM.jpeg,Jl. Jalan,NCR,Delhi,valid
+Gagas,Jex,gagasJex@g.com,877362673,Male,18/10/2000,,Sports,C:\Users\Jexxy\Downloads\WhatsApp Image 2025-09-29 at 2.27.59 PM.jpeg,Jl. Jalan,NCR,Delhi,valid
+Gagas,Jex,gagasJex@g.com,877362673,Male,18/10/2000,Math,Sports,C:\Users\Jexxy\Downloads\WhatsApp Image 2025-09-29 at 2.27.59 PM.jpeg,Jl. Jalan,,,valid
+Gagas,Jex,gagasJex@g.com,877362673,Male,18/10/2000,Math,Sports,,Jl. Jalan,NCR,Delhi,valid
+Gagas,Jex,gagasJex@g.com,877362673,Male,18/10/2000,Math,,C:\Users\Jexxy\Downloads\WhatsApp Image 2025-09-29 at 2.27.59 PM.jpeg,Jl. Jalan,NCR,Delhi,valid
+Gagas,Jex,gagasJex@g.com,877362673,Male,18/10/2000,Math,Sports,C:\Users\Jexxy\Downloads\WhatsApp Image 2025-09-29 at 2.27.59 PM.jpeg,,NCR,Delhi,valid
+Gagas,,gagasJex@g.com,877362673,Male,18/10/2000,Math,Sports,C:\Users\Jexxy\Downloads\WhatsApp Image 2025-09-29 at 2.27.59 PM.jpeg,Jl. Jalan,NCR,Delhi,required
